@@ -1,3 +1,2 @@
-# kvast
-
-Сайт производителя крафтового кваса "Кваст" 
+# KBACT
+Craft drinks manufacturer web site
