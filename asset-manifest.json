@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kvast/static/css/main.50c3e5b0.css",
+    "main.js": "/kvast/static/js/main.87fffbe0.js",
+    "static/media/wheat-back.jpg": "/kvast/static/media/wheat-back.7cd25f63700fb50f5d7a.jpg",
+    "static/media/Poppins-BoldItalic.ttf": "/kvast/static/media/Poppins-BoldItalic.cfb635a5111b545f5598.ttf",
+    "static/media/Poppins-Regular.ttf": "/kvast/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/kvast/static/media/Poppins-SemiBold.ac8d04b620e54be9b0f0.ttf",
+    "static/media/Poppins-Bold.ttf": "/kvast/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/wiki-2.png": "/kvast/static/media/wiki-2.0e6f6bd2afd18d986542.png",
+    "static/media/wiki-1.png": "/kvast/static/media/wiki-1.e25d4b80e6266c0963f5.png",
+    "static/media/bottle-left.jpg": "/kvast/static/media/bottle-left.a499ef2587af462516e2.jpg",
+    "static/media/bottle-right.jpg": "/kvast/static/media/bottle-right.8853e2e9d95e06c1d684.jpg",
+    "index.html": "/kvast/index.html",
+    "main.50c3e5b0.css.map": "/kvast/static/css/main.50c3e5b0.css.map",
+    "main.87fffbe0.js.map": "/kvast/static/js/main.87fffbe0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50c3e5b0.css",
+    "static/js/main.87fffbe0.js"
+  ]
+}
