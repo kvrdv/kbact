@@ -1,0 +1,38 @@
+.navbar {
+    width: 600px;
+}
+
+.navbar_header {
+    margin: 36px 0;
+}
+
+.navbar_footer {
+    grid-column: 2 / 4;
+}
+
+.navbar__list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 16px;
+    list-style-type: none;
+    border-top: 1px solid rgba(128, 128, 128, 0.2);
+    border-bottom: 1px solid rgba(128, 128, 128, 0.2);
+}
+
+.navbar__link {
+    color: #ffffff;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 16px 0;
+}
+
+.navbar__link:hover {
+    color: #ffcb78;
+    border-bottom: 1px solid #ffffff;
+}
+
+.navbar__link:active {
+    color: rgba(255, 203, 230, 0.3);
+    border-bottom: 1px solid #ffffff;
+}

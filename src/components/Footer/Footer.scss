@@ -1,0 +1,30 @@
+.footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    row-gap: 48px;
+    padding: 96px;
+    background-color: #000000;   
+} 
+  
+.footer__icons {
+    display: flex;
+    justify-self: center;
+}
+  
+.footer__tagline {
+    display: flex;
+    align-items: center;
+    color: #989898;
+}
+  
+.footer__authors {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+  
+.footer__author {
+    text-decoration: none;
+    color: #989898;
+    margin-left: 16px;
+}

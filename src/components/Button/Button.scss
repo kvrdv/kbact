@@ -1,0 +1,58 @@
+.button {
+    font-family: Poppins-SemiBold;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding: 16px;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    border-radius: 12px;
+}
+
+.button_product-supplement {
+    color: #834700;
+    border: 2px solid #834700;
+
+    &:hover {
+        color: #6a3900;
+        border: 2px solid #6a3900;
+    }
+
+    &:active {
+        color: rgba(106, 57, 0, 0.3);
+        border: 2px solid rgba(106, 57, 0, 0.3);
+    }
+}
+
+.button_product-buy {
+    color: #ffffff;
+    background: #834700;
+    border: 2px solid #834700;
+
+    &:hover {
+        background: #6a3900;
+        border: 2px solid #6a3900;
+    }
+
+    &:active {
+        color: rgba(255, 255, 255, 0.3);
+        background: #6a3900;
+    }
+}
+
+.button_press {
+    color: rgba(0, 0, 0, 0.3);
+    border: 2px solid rgba(0, 0, 0, 0.3);
+
+    &:hover {
+        background: rgba(0, 0, 0, 0.3);
+        color: #ffffff;
+        border: 2px solid rgba(0, 0, 0, 0);
+    }
+
+    &:active {
+        background: rgba(139, 134, 126);
+        color: rgba(180, 176, 172);
+        border: 2px solid rgba(0, 0, 0, 0);
+    }
+}

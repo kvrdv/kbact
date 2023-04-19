@@ -1,0 +1,68 @@
+.product {
+    position: relative;
+    padding: 32px;
+    box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.1);
+    border-radius: 16px;
+}
+
+.product_1 {
+    margin-right: 16px;
+}
+
+.product_2 {
+    margin-left: 16px;
+}
+
+.product__name {
+    font-family: Poppins-SemiBold;
+    text-transform: uppercase;
+    font-size: 30px;
+    margin: 0 0 45px 0;
+    padding: 0;
+}
+
+.product__values {
+    width: 150px;
+    position: absolute;
+    top: 126px;
+    right: 36px;
+}
+
+.product__values-table {
+    grid-template-columns: 75px 75px;
+    grid-template-rows: 40px 40px;
+    border-collapse: collapse;
+    margin-bottom: 16px;
+}
+  
+.product__values-data {
+    font-size: 16px;
+    padding: 10px;
+    border: 1px solid #e5e5e5;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.product__ingredients {
+    color: #404040;
+    font-size: 14px;
+}
+  
+.product__features {
+    color: #404040;
+    font-size: 16px;
+    margin-bottom: 32px;
+    min-height: 74px;
+}
+
+.product__price {
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 16px;
+}
+
+.product__buttons {
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,29 @@
+@font-face {
+    font-family: Poppins-Regular;
+    src: url(../../fonts/Poppins-Regular.ttf);
+}
+
+@font-face {
+    font-family: Poppins-SemiBold;
+    src: url(../../fonts/Poppins-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: Poppins-Bold;
+    src: url(../../fonts/Poppins-Bold.ttf);
+}
+
+@font-face {
+    font-family: Poppins-BoldItalic;
+    src: url(../../fonts/Poppins-BoldItalic.ttf);
+}
+
+body, a, p, h1, h2, h3, h4, h5, h6, dl, dt, dd, blockquote, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+.app {
+    font-family: Poppins-Regular, sans-serif;
+    font-size: 16px;
+}

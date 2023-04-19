@@ -1,0 +1,12 @@
+.features {
+    background-color: #ffca79;
+    box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.1);
+}
+  
+.features__list {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    list-style-type: none;
+    margin: 0;
+    padding: 90px 0;
+}
