@@ -3,10 +3,11 @@
     padding: 32px;
     box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.1);
     border-radius: 16px;
-}
-
-.story_1 {
     margin-bottom: 32px;
+
+    &:nth-last-child {
+        margin-bottom: 0;
+    }
 }
 
 .story__header {
@@ -48,6 +49,7 @@
     line-height: 28px;
     color: #404040;
     text-align: justify;
+    // text-indent: 25px;
 }
 
 .story__image {

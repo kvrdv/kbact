@@ -25,7 +25,7 @@ export default function Order() {
                 [name]: type === 'checkbox' ? checked : value,
             };
         });
-    }
+    }   
 
     function handlerSubmit(event) {
         event.preventDefault();      
@@ -60,8 +60,8 @@ export default function Order() {
                             type="text" 
                             name="name" 
                             placeholder="Dale Cooper"
-                            onChange={handlerChange}      
-                            value={formData.name}
+                            onChange={handlerChange}     
+                            value={formData.name || ''}
                             required
                         />
                     </div>
@@ -73,8 +73,8 @@ export default function Order() {
                             type="tel"
                             name="tel" 
                             placeholder="+ 1 (234) 567-89-10"
-                            onChange={handlerChange}      
-                            value={formData.tel}
+                            onChange={handlerChange}     
+                            value={formData.tel || ''}
                             required
                         />
                     </div>
@@ -86,8 +86,8 @@ export default function Order() {
                             type="mail" 
                             name="mail" 
                             placeholder="cherry@pie.com"
-                            onChange={handlerChange}      
-                            value={formData.mail}
+                            onChange={handlerChange}   
+                            value={formData.mail || ''}
                             required
                         />
                     </div>
@@ -114,7 +114,7 @@ export default function Order() {
                             className="form__textarea" 
                             name="comment" 
                             rows="2"
-                            value={formData.comment}
+                            value={formData.comment || ''}
                             placeholder="Additional information"
                             onChange={handlerChange}
                         />                   
@@ -131,7 +131,7 @@ export default function Order() {
                             className="form__label_input" 
                             type="checkbox" 
                             name="newsletter" 
-                            checked={formData.newsletter}
+                            checked={formData.newsletter || ''}
                             onChange={handlerChange}
                         />
                     </div>
