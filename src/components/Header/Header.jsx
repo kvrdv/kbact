@@ -1,5 +1,6 @@
 import Navbar from '../Navbar';
 import MainLogo from '../MainLogo';
+
 import './Header.scss';
 
 export default function Header() {

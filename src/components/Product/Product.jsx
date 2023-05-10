@@ -1,4 +1,5 @@
 import Button from '../Button';
+
 import './Product.scss';
 
 export default function Product({classNames, name, image, dataAlc, dataKcal, ingredients, features, price}) {

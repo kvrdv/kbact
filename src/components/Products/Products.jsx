@@ -1,5 +1,6 @@
 import SectionHeader from '../SectionHeader';
 import Product from '../Product';
+
 import './Products.scss';
 import baxterBottle from '../../images/bottle-left.jpg';
 import pomantukBottle from '../../images/bottle-right.jpg';

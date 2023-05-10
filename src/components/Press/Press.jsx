@@ -1,8 +1,8 @@
 import SectionHeader from '../SectionHeader';
 import Button from '../Button';
 
-import quotes from '../../images/quotes.png';
 import './Press.scss';
+import quotes from '../../images/quotes.png';
 
 export default function Press() {
     return (

@@ -1,5 +1,7 @@
 import {useState, useEffect} from 'react';
+
 import SectionHeader from '../SectionHeader';
+
 import './Order.scss';
 
 export default function Order() {

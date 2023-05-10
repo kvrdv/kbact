@@ -71,17 +71,17 @@ export default function History() {
                     <option value="reverse">Reverse</option>
                 </select>
 
-                {stories.sort(sortMethods[sort].method).map((story, i) => (
+                {stories.sort(sortMethods[sort].method).map((element, i) => (
                     <Story
                         key={i}
-                        id={story.id}
-                        classNames={story.classNames}
-                        name={story.name}
-                        link={story.link}
-                        source={story.source}
-                        text={story.text}
-                        image={story.image}
-                        alt={story.alt}
+                        id={element.id}
+                        classNames={element.classNames}
+                        name={element.name}
+                        link={element.link}
+                        source={element.source}
+                        text={element.text}
+                        image={element.image}
+                        alt={element.alt}
                     />
                 ))}
             </div>
