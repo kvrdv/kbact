@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/kovardaev/kbact/static/css/main.2194c9dc.css",
-    "main.js": "/kovardaev/kbact/static/js/main.3faa2a9f.js",
-    "static/media/wheat-back.jpg": "/kovardaev/kbact/static/media/wheat-back.7cd25f63700fb50f5d7a.jpg",
-    "static/media/Poppins-BoldItalic.ttf": "/kovardaev/kbact/static/media/Poppins-BoldItalic.cfb635a5111b545f5598.ttf",
-    "static/media/Poppins-Regular.ttf": "/kovardaev/kbact/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
-    "static/media/Poppins-SemiBold.ttf": "/kovardaev/kbact/static/media/Poppins-SemiBold.ac8d04b620e54be9b0f0.ttf",
-    "static/media/Poppins-Bold.ttf": "/kovardaev/kbact/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
-    "static/media/wiki-2.png": "/kovardaev/kbact/static/media/wiki-2.0e6f6bd2afd18d986542.png",
-    "static/media/wiki-1.png": "/kovardaev/kbact/static/media/wiki-1.e25d4b80e6266c0963f5.png",
-    "static/media/bottle-left.jpg": "/kovardaev/kbact/static/media/bottle-left.a499ef2587af462516e2.jpg",
-    "static/media/bottle-right.jpg": "/kovardaev/kbact/static/media/bottle-right.8853e2e9d95e06c1d684.jpg",
-    "index.html": "/kovardaev/kbact/index.html",
-    "main.2194c9dc.css.map": "/kovardaev/kbact/static/css/main.2194c9dc.css.map",
-    "main.3faa2a9f.js.map": "/kovardaev/kbact/static/js/main.3faa2a9f.js.map"
+    "main.css": "/kbact/static/css/main.cb2ea707.css",
+    "main.js": "/kbact/static/js/main.cc95e2d9.js",
+    "static/media/wheat-back.jpg": "/kbact/static/media/wheat-back.7cd25f63700fb50f5d7a.jpg",
+    "static/media/Poppins-BoldItalic.ttf": "/kbact/static/media/Poppins-BoldItalic.cfb635a5111b545f5598.ttf",
+    "static/media/Poppins-Regular.ttf": "/kbact/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/kbact/static/media/Poppins-SemiBold.ac8d04b620e54be9b0f0.ttf",
+    "static/media/Poppins-Bold.ttf": "/kbact/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/wiki-2.png": "/kbact/static/media/wiki-2.0e6f6bd2afd18d986542.png",
+    "static/media/wiki-1.png": "/kbact/static/media/wiki-1.e25d4b80e6266c0963f5.png",
+    "static/media/bottle-left.jpg": "/kbact/static/media/bottle-left.a499ef2587af462516e2.jpg",
+    "static/media/bottle-right.jpg": "/kbact/static/media/bottle-right.8853e2e9d95e06c1d684.jpg",
+    "index.html": "/kbact/index.html",
+    "main.cb2ea707.css.map": "/kbact/static/css/main.cb2ea707.css.map",
+    "main.cc95e2d9.js.map": "/kbact/static/js/main.cc95e2d9.js.map"
   },
   "entrypoints": [
-    "static/css/main.2194c9dc.css",
-    "static/js/main.3faa2a9f.js"
+    "static/css/main.cb2ea707.css",
+    "static/js/main.cc95e2d9.js"
   ]
 }
