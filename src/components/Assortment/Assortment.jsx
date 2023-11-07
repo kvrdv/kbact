@@ -88,7 +88,7 @@ export default function Assortment() {
     }
 
     return (
-        <section className="assortment">
+        <section className="assortment" id="assortment">
             <SectionHeader text="assortment" />
             <div className="assortment__wrapper">               
                 <table className="assortment__table">

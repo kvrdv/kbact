@@ -22,7 +22,6 @@ export default function Press() {
                 <div className="press__buttons">
                     <Button 
                         classNames="button_press"
-                        link="https://kvrdv.github.io/kvast/"
                         text="read more"
                     />
                     <p className="press__source">the new york times</p>

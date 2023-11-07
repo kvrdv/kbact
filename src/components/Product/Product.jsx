@@ -29,12 +29,10 @@ export default function Product({classNames, name, image, dataAlc, dataKcal, ing
             <div className="product__buttons">
                 <Button 
                     classNames="button_product-supplement"
-                    link="https://kvrdv.github.io/kvast/#" 
                     text="nutrition facts"
                 />
                 <Button 
                     classNames="button_product-buy"
-                    link="https://kvrdv.github.io/kvast/#" 
                     text="buy"
                 />
                 <span className="product__price">

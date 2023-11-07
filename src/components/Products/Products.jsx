@@ -7,7 +7,7 @@ import pomantukBottle from '../../images/bottle-right.jpg';
 
 export default function Products() {
     return (
-        <section className="products">
+        <section className="products" id="manufacture">
             <SectionHeader text="products" />  
 
             <div className="products__products_wrapper">         

@@ -58,7 +58,7 @@ export default function History() {
     ];  
 
     return (
-        <section className="history">
+        <section className="history" id="history">
             <SectionHeader text="history" />
             <div className="history__wrapper">          
                 <select 
